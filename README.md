@@ -9,9 +9,6 @@
 
 **Genetic Disorder Prediction Model Trainer** is a modern, GPU-accelerated desktop application for training and visualizing logistic regression models on synthetic or CSV genetic disorder data. Built with Python, Tkinter, and Numba (CUDA), it provides a beautiful, interactive interface for exploring machine learning on your own GPU.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/yourusername/yourrepo/demo_screenshot.png" alt="App Screenshot" width="700"/>
-</p>
 
 ---
 
