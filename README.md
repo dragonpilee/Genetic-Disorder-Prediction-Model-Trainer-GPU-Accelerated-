@@ -23,7 +23,6 @@
 - **CSV Import:** Load your own datasets for custom experiments.
 - **Live Visualization:** Real-time loss curve and prediction scatter plots.
 - **Status Logging:** See detailed logs of training progress.
-- **Attribution:** Developer credit always visible in the top-right corner.
 
 ---
 
@@ -32,8 +31,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/genetic-disorder-gpu-trainer.git
-cd genetic-disorder-gpu-trainer
+git clone https://github.com/dragonpilee/Genetic-Disorder-Prediction-Model-Trainer-GPU-Accelerated-.git
 ```
 
 ### 2. Install Requirements
