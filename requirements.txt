@@ -1,0 +1,6 @@
+# requirements.txt
+numpy
+pandas
+matplotlib
+numba
+# tkinter is included with standard Python installations on Windows
