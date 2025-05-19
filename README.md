@@ -80,7 +80,6 @@ feature1,feature2,label
 ## 🧑‍💻 Developed By
 
 **Alan Cyril Sunny**  
-*Proudly displayed in the app's top-right corner!*
 
 ---
 
@@ -113,4 +112,4 @@ Pull requests and suggestions are welcome! Please open an issue first to discuss
 
 ## 📬 Contact
 
-For questions or feedback, open an issue or contact [Alan Cyril Sunny](mailto:your.email@example.com).
+For questions or feedback, open an issue or contact [Alan Cyril Sunny](alan_cyril@yahoo.com).
